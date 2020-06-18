@@ -1,2 +1,2 @@
 # Public-Sourcemod-Plugins
-Collection of public sourcemod plugins I have created
+Collection of miscellaneous public sourcemod plugins I have created
